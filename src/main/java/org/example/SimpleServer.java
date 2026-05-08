@@ -40,3 +40,4 @@ public class SimpleServer {
         server.close();
     }
 }// Login Feature
+// Logout Feature
